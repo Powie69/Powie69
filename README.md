@@ -1,4 +1,4 @@
-![logo](flamingo.jpg)
+![Bean](flamingo.jpg)
 
 Powie69#1407
 
